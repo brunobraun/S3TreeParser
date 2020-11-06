@@ -1,5 +1,0 @@
-D:\Projetools Local\Projetools\S3TreeParser\bin\Release\S3TreeParser.dll
-D:\Projetools Local\Projetools\S3TreeParser\bin\Release\S3TreeParser.pdb
-D:\Projetools Local\Projetools\S3TreeParser\obj\Release\S3TreeParser.csproj.CoreCompileInputs.cache
-D:\Projetools Local\Projetools\S3TreeParser\obj\Release\S3TreeParser.dll
-D:\Projetools Local\Projetools\S3TreeParser\obj\Release\S3TreeParser.pdb

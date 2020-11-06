@@ -1,6 +1,0 @@
-D:\Projetools Local\Projetools\S3TreeParser\bin\Debug\S3TreeParser.dll
-D:\Projetools Local\Projetools\S3TreeParser\bin\Debug\S3TreeParser.pdb
-D:\Projetools Local\Projetools\S3TreeParser\obj\Debug\S3TreeParser.csproj.CoreCompileInputs.cache
-D:\Projetools Local\Projetools\S3TreeParser\obj\Debug\S3TreeParser.dll
-D:\Projetools Local\Projetools\S3TreeParser\obj\Debug\S3TreeParser.pdb
-D:\Projetools Local\Projetools\S3TreeParser\obj\Debug\S3TreeParser.csprojAssemblyReference.cache
