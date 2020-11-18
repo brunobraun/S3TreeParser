@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>S3 Tree Parser</title>
+    <authors>B.Braun</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/brunobraun/S3TreeParser</projectUrl>
+    <description>Class with methods created for convert the list of objects in S3 format to a new Tree object based on the specification of ExtJS TreePanel.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>s3 aws extjs treepanel</tags>
+  </metadata>
+</package>

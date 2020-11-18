@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("S3TreeParser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Class with methods created for convert the list of objects in S3 format to a new Tree object based on the specification of ExtJS TreePanel.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("B.Braun")]
 [assembly: AssemblyProduct("S3TreeParser")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
